@@ -54,4 +54,4 @@ README.md
 
 ## License
 
-Educational us
+Educational use only
